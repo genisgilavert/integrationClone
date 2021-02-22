@@ -1,0 +1,103 @@
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.FitxureServer.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\ref\Chat.FitxureServer.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\test\Chat.FitxureServer.Library\obj\Debug\net5.0\Chat.FitxureServer.Library.pdb

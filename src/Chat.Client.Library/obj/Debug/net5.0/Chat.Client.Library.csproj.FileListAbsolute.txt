@@ -1,0 +1,75 @@
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\bin\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 1 y 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\bin\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas 2\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\bin\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas FluentAssertions\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\bin\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab.100-Ejercicio de prácticas Advanced Testing Strategies\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.deps.json
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\bin\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Client.Library.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\bin\Debug\net5.0\Chat.Common.pdb
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csprojAssemblyReference.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfoInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.AssemblyInfo.cs
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.csproj.CopyComplete
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\ref\Chat.Client.Library.dll
+C:\Users\anony\OneDrive\Escritorio\CAMPUS MVP\UNIT TESTING\Lab\Lab100_coverage\src\Chat.Client.Library\obj\Debug\net5.0\Chat.Client.Library.pdb

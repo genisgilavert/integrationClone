@@ -1,0 +1,664 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.DesignTests\\Chat.DesignTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj",
+        "projectName": "Chat.Client.Library",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client\\Chat.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client\\Chat.Client.csproj",
+        "projectName": "Chat.Client",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client\\Chat.Client.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj",
+        "projectName": "Chat.Common",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj",
+        "projectName": "Chat.Server.Library",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj",
+        "projectName": "Chat.Server",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj",
+        "projectName": "Chat.Client.Library.Tests",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.0.0-alpha0002, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.0-preview-20210127-04, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.DesignTests\\Chat.DesignTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.DesignTests\\Chat.DesignTests.csproj",
+        "projectName": "Chat.DesignTests",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.DesignTests\\Chat.DesignTests.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.DesignTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client\\Chat.Client.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client\\Chat.Client.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server.Library\\Chat.Server.Library.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Server\\Chat.Server.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.Client.Library.Tests\\Chat.Client.Library.Tests.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.0.0-alpha0002, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.0-preview-20210127-04, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj",
+        "projectName": "Chat.FitxureServer.Library",
+        "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj",
+        "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Client.Library\\Chat.Client.Library.csproj"
+              },
+              "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj": {
+                "projectPath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\src\\Chat.Common\\Chat.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview.1.21102.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

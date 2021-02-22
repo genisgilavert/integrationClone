@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1oOzK6lexQc/8e/arRpSqS+GXueehI2XZ4cLY9c4+mR2rhItO6AHUWzEovlYKVJKWGJYFkI+EZcbmOlE/qLwkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anony\\OneDrive\\Escritorio\\CAMPUS MVP\\UNIT TESTING\\Lab\\Lab100_integration\\test\\Chat.FitxureServer.Library\\Chat.FitxureServer.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anony\\.nuget\\packages\\coverlet.msbuild\\3.0.2\\coverlet.msbuild.3.0.2.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.abstractions.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.analyzers.6.0.0-preview.1.21102.2.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.caching.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0-preview.1.21102.12\\microsoft.extensions.caching.memory.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.1.21102.12\\microsoft.extensions.options.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.1.21102.12\\microsoft.extensions.primitives.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\system.collections.immutable\\6.0.0-preview.1.21102.12\\system.collections.immutable.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.1.21102.12\\system.componentmodel.annotations.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.1.21102.12\\system.diagnostics.diagnosticsource.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\anony\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.1.21102.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}
