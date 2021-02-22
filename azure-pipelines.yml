@@ -6,17 +6,29 @@
 trigger:
 - main
 
+strategy:
+  matrix:
+    Ubuntu:
+      imageName: 'ubuntu-16.04'
+    Visual Studio 2019:
+      imageName: 'windows-2019'
+    High Sierra:
+      imageName: 'macos-10.13'
+
 pool:
-  vmImage: ubuntu-latest
+  vmImage: $(imageName)
 
 steps:
 - task: DotNetCoreCLI@2
+  displayName: "Dotnet Restore"
   inputs:
     command: 'restore'
     feedsToUse: 'select'
 - task: DotNetCoreCLI@2
+  displayName: "Dotnet Build"
   inputs:
     command: 'build'
 - task: DotNetCoreCLI@2
+  displayName: "Dotnet Test"
   inputs:
     command: 'test'
