@@ -35,11 +35,10 @@ steps:
 # Publish code coverage results
 # Publish Cobertura or JaCoCo code coverage results from a build
 - task: PublishCodeCoverageResults@1
-  displayName: "Dotnet Coverage"
+  displayName: "Publish Coverage"
   inputs:
-    #codeCoverageTool: 'JaCoCo' # Options: cobertura, jaCoCo
-    summaryFileLocation: 
-      $(System.DefaultWorkingDirectory)/coverage.xml
+    codeCoverageTool: cobertura
+    summaryFileLocation: '$(System.DefaultWorkingDirectory)/**/coverage.cobertura.xml'
     #pathToSources: # Optional
     #reportDirectory: # Optional
     #additionalCodeCoverageFiles: # Optional
