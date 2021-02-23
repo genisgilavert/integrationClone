@@ -39,6 +39,7 @@ steps:
   inputs:
     #codeCoverageTool: 'JaCoCo' # Options: cobertura, jaCoCo
     summaryFileLocation: 
+      $(System.DefaultWorkingDirectory)/coverage.xml
     #pathToSources: # Optional
     #reportDirectory: # Optional
     #additionalCodeCoverageFiles: # Optional
